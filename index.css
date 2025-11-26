@@ -13,7 +13,7 @@ ul{
  
   gap: 5%;
 }
-li{
+li{ 
   padding-top: 1%;
   font-size: large;
   font-weight: bold;
@@ -180,3 +180,4 @@ height: 70vh;
     }
   
 }
+
