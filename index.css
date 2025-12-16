@@ -2,7 +2,7 @@
 #toggle{
   display: none;
   margin-top: 1%;
-}
+} 
 .item{
   height: auto;
   width: 65%; 
@@ -179,6 +179,7 @@ height: 70vh;
     }
   
 }
+
 
 
 
