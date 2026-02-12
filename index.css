@@ -5,7 +5,7 @@
 }  
 .item{
   height: auto;
-  width: 65%; 
+  width: 65%;  
 }
 ul{ 
   list-style-type: none;
@@ -179,6 +179,7 @@ height: 70vh;
     }
   
 }
+
 
 
 
