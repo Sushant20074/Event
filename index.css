@@ -4,7 +4,7 @@
   margin-top: 1%;
 }  
 .item{ 
-  height: auto;
+  height: auto; 
   width: 65%;  
 }
 ul{ 
@@ -179,6 +179,7 @@ height: 70vh;
     }
   
 }
+
 
 
 
